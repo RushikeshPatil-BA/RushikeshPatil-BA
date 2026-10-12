@@ -1,6 +1,6 @@
 ## Hi, I'm Rushikesh 👋
 
-**Business Analyst** based in London. I turn messy business data into dashboards, KPIs and decisions people can act on.
+**Technical Consultant** based in London. I turn messy business data into dashboards, KPIs and decisions people can act on.
 
 - 🎓 MSc Business Analytics, University of Greenwich (70%) · MBA Finance & Business Analytics, MIT World Peace University
 - 💼 Former Senior Technical Business Analyst at Veritas Communications
